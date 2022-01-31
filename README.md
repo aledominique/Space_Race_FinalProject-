@@ -38,9 +38,11 @@ The data resources are identified and gathered from the SPACEX API and the SPACE
 * We only have the orbit type LEO, ISS, GTO, VLEO and SO in the launch site KSC LC 39A.
 * The site with the highest success rate is KSC LC-39A.
 ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/TotalSuccessSites.png)
+
 * The only booster version with the Payload between 5000 and 10000 kg are the FT and the B4
 * The B4 booster version is the booster with the highest payload. 
 * The booster with the highest success rate is the Booster F9 FT (Falcon 9 Full Thrust) 
+![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/Payloadandsuccess1.PNG)
 
 
 
