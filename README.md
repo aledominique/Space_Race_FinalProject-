@@ -23,7 +23,7 @@ Over the years private companies have taken an interest in making space travel a
 The data resources are identified and gathered from the SPACEX API and the SPACEX Wiki page. For both cases we uses the function .get() to extract the content of the link to a variable, that later we will “clean”: remove the duplicates, review the data format, delete/replace the missing data and the invalid values. After that, we will filter the information that we require, in this case only the data from the Falcon 9, and finally, all the relevant information will be save in a data frame.
 ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/DataCollectionFlowchart.PNG)
 
-* Perform data wrangling
+
 * Perform exploratory data analysis (EDA) using visualization and SQL
 * Perform interactive visual analytics using Folium and Plotly Dash
 * Perform predictive analysis using classification models
