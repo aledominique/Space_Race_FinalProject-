@@ -25,7 +25,7 @@ The data resources are identified and gathered from the SPACEX API and the SPACE
 
 
 * Perform exploratory data analysis (EDA) using visualization and SQL
-* * [Data Visualization Lab](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/EDA%20with%20Visualization%20lab.ipynb)
+  * [Data Visualization Lab](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/EDA%20with%20Visualization%20lab.ipynb)
 * * [SQL Lab]](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Exploratory%20Data%20Analysus%20with%20SQL.ipynb)
 * Perform interactive visual analytics using Folium and Plotly Dash
 * Perform predictive analysis using classification models
