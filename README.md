@@ -1,5 +1,5 @@
 # Winning Space Race with Data Science
-### by Alejandra Ramos 
+### by Alejandra Ramos de Vega
 #### Final assignment of the course "IBM Data Science Professional Certificate" 
 
 
