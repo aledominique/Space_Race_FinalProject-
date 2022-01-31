@@ -28,7 +28,10 @@ The data resources are identified and gathered from the SPACEX API and the SPACE
   * [Data Visualization Lab](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/EDA%20with%20Visualization%20lab.ipynb)
   * [SQL Lab](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Exploratory%20Data%20Analysus%20with%20SQL.ipynb)
 * Perform interactive visual analytics using Folium and Plotly Dash
+  * [Folium lab](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/the%20Interactive%20Visual%20Analytics%20with%20Folium%20lab.ipynb)
+  * [Plotly Dash code](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/spacex_dash_app.py.py) 
 * Perform predictive analysis using classification models
+  * [Classifications models lab](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Machine%20Learning%20Prediction%20lab.ipynb) 
 
 ## Results
 * In the VAFB-SLC launch site there are no rockets launched for heavy payload mass(greater than 10000).
