@@ -19,13 +19,14 @@ Over the years private companies have taken an interest in making space travel a
 
 ## Methodology 
 * Data collection methodology
+  * [Data Collection using SpaceX API](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Data%20Collection%20API%20Lab.ipynb)
+  * [Data Collection using webscraping](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Complete%20the%20Data%20Collection%20with%20Web%20Scraping%20lab.ipynb)
+  * [Data Wrangling](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Data%20Wrangling.ipynb)
 
 The data resources are identified and gathered from the SPACEX API and the SPACEX Wiki page. For both cases we uses the function .get() to extract the content of the link to a variable, that later we will “clean”: remove the duplicates, review the data format, delete/replace the missing data and the invalid values. After that, we will filter the information that we require, in this case only the data from the Falcon 9, and finally, all the relevant information will be save in a data frame.
 ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/DataCollectionFlowchart.PNG)
 
-  * [Data Collection using SpaceX API](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Data%20Collection%20API%20Lab.ipynb)
-  * [Data Collection using webscraping](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Complete%20the%20Data%20Collection%20with%20Web%20Scraping%20lab.ipynb)
-  * [Data Wrangling](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Code/Data%20Wrangling.ipynb)
+ 
 
 
 * Perform exploratory data analysis (EDA) using visualization and SQL
