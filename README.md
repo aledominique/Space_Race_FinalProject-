@@ -38,7 +38,7 @@ The data resources are identified and gathered from the SPACEX API and the SPACE
 * The B4 booster version is the booster with the highest payload. 
 * The booster with the highest success rate is the Booster F9 FT (Falcon 9 Full Thrust) 
 
-![grafik](https://user-images.githubusercontent.com/93596082/151870468-35c0f46d-56a8-41a9-b263-fc2ff655d9be.png)
+
 
 
 ## Conclusions
