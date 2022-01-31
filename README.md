@@ -31,6 +31,7 @@ The data resources are identified and gathered from the SPACEX API and the SPACE
 ## Results
 * In the VAFB-SLC launch site there are no rockets launched for heavy payload mass(greater than 10000).
 * The highest success rate are for the ES-L1, GEO, HEO, SSO and VLEO orbits.
+ ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/SuccessRatevsOrbitType.png)
 * We only have the orbit type PO and SSO in the launch site VAFB SLC 4E.
 * We only have the orbit type LEO, ISS, GTO, VLEO and SO in the launch site KSC LC 39A.
 * The site with the highest success rate is KSC LC-39A.
