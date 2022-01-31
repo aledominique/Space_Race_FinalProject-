@@ -33,6 +33,8 @@ The data resources are identified and gathered from the SPACEX API and the SPACE
 * The highest success rate are for the ES-L1, GEO, HEO, SSO and VLEO orbits.
  ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/SuccessRatevsOrbitType.png)
 * We only have the orbit type PO and SSO in the launch site VAFB SLC 4E.
+![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/OrbittypevsLaunchSite.png)
+
 * We only have the orbit type LEO, ISS, GTO, VLEO and SO in the launch site KSC LC 39A.
 * The site with the highest success rate is KSC LC-39A.
 * The only booster version with the Payload between 5000 and 10000 kg are the FT and the B4
