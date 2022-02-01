@@ -54,6 +54,20 @@ The data resources are identified and gathered from the SPACEX API and the SPACE
 * The booster with the highest success rate is the Booster F9 FT (Falcon 9 Full Thrust) 
 ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/Payloadandsuccess1.PNG) ![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/Payloadandsuccess2.PNG)
 
+### Results Predictive Analysis
+* The accuracy of the classification models LR, SMV and KNN is 78%
+* The accuracy of the classification model Tree is 72%
+* 3 of the 4 models have the highest accuracy
+* 3 of the 4 models have the same accuracy
+![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/ClassificationAccuracy.png)
+* We see that the major problem is false positives.
+* The results are practically the same, because the dataset is small and having lesser values.
+* When separating the data set for the "train and test" method, the size of the test set has only 18 values.
+![grafik](https://github.com/aledominique/Space_Race_FinalProject-/blob/main/Images/ConfusionMatrix.png)
+
+
+
+
 
 
 ## Conclusions
